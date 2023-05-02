@@ -1,0 +1,14 @@
+ Columns . . . :    6  76            Edit                    JBLTD101/QRPGLESRC 
+ SEU==>                                                                   TEST3 
+ FMT FX FFilename++IPEASF.....L.....A.Device+.Keywords+++++++++++++++++++++++++ 
+        *************** Beginning of data ************************************* 
+0001.00 FSTUDENT1  IF   E           K DISK                                      
+0002.00 FTEST10    CF   E             WORKSTN                                   
+0003.00 C*                                                                      
+0004.00 C                   READ      RSTUDENT                             9999 
+0005.00 C     *IN99         DOWEQ     *OFF                                      
+0006.00 C                   EXFMT     MAIN                                      
+0007.00 C                   READ      RSTUDENT                             9999 
+0008.00 C                   ENDDO                                               
+0009.00 C                   SETON                                        LR     
+        ****************** End of data **************************************** 
