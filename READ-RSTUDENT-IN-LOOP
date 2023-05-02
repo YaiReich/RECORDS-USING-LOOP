@@ -1,6 +1,4 @@
- Columns . . . :    6  76            Edit                    JBLTD101/QRPGLESRC 
- SEU==>                                                                   TEST3 
- FMT FX FFilename++IPEASF.....L.....A.Device+.Keywords+++++++++++++++++++++++++ 
+
         *************** Beginning of data ************************************* 
 0001.00 FSTUDENT1  IF   E           K DISK                                      
 0002.00 FTEST10    CF   E             WORKSTN                                   
